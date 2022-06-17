@@ -13,6 +13,6 @@
     "require": "^2.4.20"
   },
   "devDependencies": {
-    "electron": "^7.1.8"
+    "electron": "^15.5.5"
   }
 }
